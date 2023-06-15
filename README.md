@@ -4,11 +4,11 @@
 To read files from csv files using python program.
 
 ## ALGORITHM:
-### 1. First we want to import pandas.
-### 2. Then we want to create csv file.
-### 3. Both python and csv files are in the same folder.
-### 4. Then write the revalent code in the python file
-### 5. Then check the result.
+ 1. First we want to import pandas.
+ 2. Then we want to create csv file.
+ 3. Both python and csv files are in the same folder.
+ 4. Then write the revalent code in the python file
+ 5. Then check the result.
 
 ## PROGRAM:
  To read files from csv files using python program.
